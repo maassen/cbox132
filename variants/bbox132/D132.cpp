@@ -1,11 +1,11 @@
 #include <Arduino.h>
 
-// at full speed two cars are seperated by at least 30ms
 /*
  *  Part of CBox132 - https://github.com/maassen/cbox132
  *
  * Copyright (c) 2019 Michael Maassen
  */ 
+// at full speed two cars are seperated by at least 30ms
 #define RAIL_IR_NEXT    30000
 
 #include <D132.h>
